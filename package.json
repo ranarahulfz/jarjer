@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react by Rahul Rana",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranarahulfz/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "jest",
+    "namaste",  
+    "react"
+  ],
+  "author": "Rahul Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranarahulfz/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ranarahulfz/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}

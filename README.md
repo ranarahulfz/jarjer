@@ -1,11 +1,11 @@
-# Namaste React 🚀
+# JarJer: Food Ordering App 🚀
 
 # Parcel (Bundler):
 
 - Creating Dev Builds
-- Creating Local Server and Keep App Up and Running
+- Creating a Local Server and Keeping the App Up and Running
 - HMR = Hot Module Replacement
-- File wathcing algorithm - Written in C++
+- File-watching algorithm - Written in C++
 - Caching - Faster Builds
 - Image Optimization
 - Minification
@@ -15,6 +15,6 @@
 - Code Splitting
 - Differential Bundling - To support older browsers
 - Diagnostic - Better Error Handling
-- HTTPS - Parcel give you access to SSL certificate
+- HTTPS - Parcel gives you access to an SSL certificate
 - Tree Shaking - Remove unused code
 - Different DEV and PROD bundles
